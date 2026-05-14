@@ -1,4 +1,4 @@
-# Introduction
+# Introduction.
 
 Open Coding Society `student` is a project designed to support students in their Computer Science and Software Engineering education. It offers a wide range of resources including tech talks, code examples, and educational blogs.
 
